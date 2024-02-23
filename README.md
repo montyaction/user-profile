@@ -46,4 +46,4 @@ The project uses Tailwind CSS to ensure a responsive and visually appealing layo
 - Screenshots are included to provide a visual representation of the user profile display.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](LICENSE) - see the LICENSE file for details.
